@@ -1,0 +1,25 @@
+* {
+  background-color: #100720;
+  margin: 0px;
+  padding: 3px;
+  box-sizing: border-box;
+  font-family: "poppins", sans-serif;
+  font-size: 25px;
+  color: azure;
+}
+
+img {
+  width: 350px;
+  height: auto;
+  border-radius: 20px;
+}
+
+div {
+  width: 20px;
+  height: 100px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
